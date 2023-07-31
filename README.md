@@ -5,11 +5,9 @@ The following test image was used for generation: ![image](https://github.com/du
 
 Below are the generated 3d Photo Inpaintings:
 
-https://github.com/dusanBirta/2d-Image-to-3d-Inpainting/blob/main/maradona_kick_dolly_zoom.mp4
 
-https://github.com/dusanBirta/2d-Image-to-3d-Inpainting/blob/main/maradona_zoom_in.mp4
 
-https://github.com/dusanBirta/2d-Image-to-3d-Inpainting/blob/main/maradona_swing.mp4
 
-https://github.com/dusanBirta/2d-Image-to-3d-Inpainting/blob/main/maradona_circle.mp4
+
+https://github.com/dusanBirta/2d-Image-to-3d-Inpainting/assets/31896340/9e03cec6-c43d-4d5c-aad4-1052a668fdfa
 
